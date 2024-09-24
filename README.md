@@ -3,6 +3,7 @@
 ASP.NET CORE 8 Test task JWT auth
 Login & register with JWT tokens.
 JWT refresh token
+
 Endpoints
 POST - /api/account/register
 POST - /api/account/login
