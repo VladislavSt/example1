@@ -71,3 +71,6 @@ than input password
 
 and after login will be call http://localhost:5281/api/account/info
 for get user info
+
+
+Or run solution via visual studio with current setting run multiple projects 'Yam.API' and 'Yam.API.Client'
